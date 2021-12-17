@@ -1,152 +1,148 @@
-**HPB机密支付使用手册**
+**User Guide to HPB DCPP**
 
-**HPB 基金会**
+**HPB Foundation**
 
-**2021 年 07 月**
+**July 2021**
 
-**目录**
+**Content**
 
-[一、简介 2](#)
+[**I.** **Introduction**](#_Toc90596917)
 
-[二、HPB 机密支付使用指南 2](#-1)
+[**II. User Guide to HPB DCPP**](#_Toc90596919)
 
-[1、创建及备份隐私钱包 2](#1创建及备份隐私钱包)
+[1. **Create and back up a Privacy Wallet**](#_Toc90596920)
 
-[2、导入隐私钱包 6](#2导入隐私钱包)
+[**2. Import the Privacy Wallet**](#_Toc90596921)
 
-[3、隐私币管理及转账操作流程 7](#3隐私币管理及转账操作流程)
+[**3. Management and Asset Transfer Operation Process of Privacy
+Currency**](#_Toc90596922)
 
-[4、删除隐私钱包 15](#-2)
+[**4. Delete the Privacy Wallet**](#_Toc90596923)
 
-## 
+## **Introduction**
 
-## 一、简介
-
-DCPP(Decentralized Confidential Payment
-Protocol，分布式机密支付协议)是一款软硬件结合的机密支付解决方案，实现极致高效、安全。软件部分架构在HPB区块链的智能合约层，以智能合约ZSC的形式部署在HPB区块链上，硬件部分结合了HPB独有BOE硬件加速芯片。HCash提供了以ElGaml公钥为账户的机密代币，作为HPB账户之间机密交易的载体。
+## DCPP (Decentralized Confidential Payment Protocol) is a confidential payment solution that integrates hardware and software to achieve better efficiency and security. The software component is based on the smart contract named ZSC that is deployed at HPB blockchain. The hardware component is combined with the unique BOE acceleration chip of HPB, allowing the fast execution of zero-knowledge proof algorithms. DCPP provides confidential tokens with the ElGamal public key as an account, which serves as the carrier for HPB confidential transactions.
 
 ## 
 
-## 
+## **II. User Guide to HPB DCPP**
 
-## 二、HPB 机密支付使用指南
+## 1. Create and back up a Privacy Wallet
 
-### 1、创建及备份隐私钱包
+1.1 Click HPB Wallet and enter into the main interface.
 
-1.1打开 HPB Wallet进入主界面。
+![](media/462de4b9349c7872f4d3b7019dd76419.png)
 
-![](media/bae20716277e74763f61916f36d548bd.png)
+1.2 Click 【Me】- 【Manage Wallet】
 
-1.2点击【我的】-【管理钱包】。
+![](media/016975dc2d58b019dba84d0d4cac5cd9.png)
 
-![](media/c39d58caf9401180cc940f2625ca6fcc.png)
+1.3 Click the【Privacy】tab -【Create a wallet】
 
-1.3点击【隐私币】-【创建钱包】。
+![](media/15297a5946e0acd440b96790c95c8741.png)
 
-![](media/d4433bae5bdf10f5119c7d593e095b3b.png)
+1.4 Fill in the related information as required, read the *Privacy Policy and
+Terms of Service* and tick it, then click 【Create Wallet】.
 
-1.4按要求填写相关信息，阅读《隐私政策与服务条款》并勾选后，点击【创建钱包】。
+![](media/eb6be3e8661f542d887d9512d82380f5.png)
 
-![](media/8869c702302de6235808a39ad81825cb.png)
+1.5 By now the wallet has been created successfully.
 
-1.5点击【立即备份钱包】。
+![](media/1ce040c1edad50d22ff7b14a268efaf6.png)
 
-![](media/ae8f5e5c1d1327986dadd91ed0dcd454.png)
+## **2. Import the Privacy Wallet**
 
-1.6复制私钥或者将私钥抄写保存在安全的地方，然后返回。
+2.1 Click 【Import Wallet】
 
-![](media/603a0e29dcac3510f4b6122b719d0ca0.png)
+![](media/200ccb3854ef59c87d6848f1ffa53866.png)
 
-![](media/250a180ebfadbe1ea0ae08170eeb4551.png)
+2.2 Input the plaintext private key and confirm it; before importing the Wallet,
+please read the *Privacy Policy and Terms of Service* carefully and then tick
+it. Click 【Confirm】.
 
-1.7暂不备份，进入钱包。此时钱包已经创建成功。
+![](media/f70db15cf34de65f64a03edf6742813c.png)
 
-## 
+2.3 Congratulations! Your Privacy Wallet has been imported successfully.
 
-## 2、导入隐私钱包
+![](media/067fd3b69ad175729bb6bfa967fa30fa.png)
 
-2.1在隐私币界面点击【导入钱包】
+## **3. Management and Asset Transfer Operation Process of Privacy Currency**
 
-![](media/efe51f072cedd8d6ed5c295a23844b0a.png)
+3.1 On the【Assets】homepage，click the switch symbol top right, or
+click【Me】-【Manage Wallet】-【Privacy 】 to manage the Privacy Currency.
 
-2.2输入明文私钥和密码及确认密码，在导入钱包前，请仔细阅读《隐私政策与服务条款》并勾选。点击【确认】。
+![](media/1779e301371a8e5a99065cfb7f7b6bcf.png)![](media/016975dc2d58b019dba84d0d4cac5cd9.png)
 
-![](media/4c7493217d8dd308fbd07959ad3502d3.png)
+3\. 2.1 How to deposit Privacy Currency: on the homepage of the Privacy Wallet,
+click 【Deposit】
 
-2.3恭喜！您的隐私钱包成功导入。
+![](media/1e76b7f643290f69ba2b5e979adf0810.png)
 
-## 3、隐私币管理及转账操作流程
+3\. 2.2 Fill in the related information as required, then click 【Deposit】.
 
-3、3.1
-钱包首页【资产】页面，点击资产最右边切换符号，或者点击【我的】-【管理钱包】-【隐私币】，进行隐私币管理。
+![](media/a2fdd4ce25a8811af64ae7b7b43ae4a6.png)
 
-![](media/7138acfffd20bf001b08d422efae9002.png)
+3\. 2.3 At the interface of confirming Deposit, check carefully if the
+information has any mistakes; if any, please click 【×】 to return and correct
+this information. After confirming that everything is correct, click【Confirm】,
+input the password. Return to the homepage when deposit is done.
 
-![](media/c39d58caf9401180cc940f2625ca6fcc.png)
+![](media/bd2ceba98da37d8ae64ffcf17b5ade35.png)![](media/365e9fd9c29b71b6da05362fce1cc52b.png)
 
-3、2.1隐私币充值说明：钱包首页点击【充值】进入充值界面。
+3\. 3.1 Instruction for asset transfer of the Privacy Currency Assets: On the
+Wallet homepage, click 【Scan】(to scan an HPB wallet address QR code for
+receiving payment) or click 【Transfer】.
 
-![](media/f93a552f8baff2a883603347d7f5a865.png)
+![](media/33895e0bd0edbd4faa02580b9e272e47.png)
 
-3、2.2按要求填写相关信息，点击【充值】。
+3\. 3.2 Input the wallet address you are transferring privacy currency to and
+make sure your sender wallet account balance is sufficient (note - leave at
+least 0.01 HPB to pay for gas to process the transaction in the related HPB
+wallet), input the amount to be transferred, and then click【Transfer】.
 
-![](media/8573bc4a59eee9b716be06f8dcc8fe5e.png)
+![](media/c6ccd4c5a0262eac6482df64efd00b3d.png)
 
-3、2.3在确认充值界面，仔细核对充值信息是否有误，有错误信息则点击【×】返回重新填写充值信息。确认无误点击【确认】，输入支付密码。充值成功返回首页
+3\. 3.3 After carefully confirming that the transfer information is all correct,
+click【Confirm】, input your HPB payment password (for your HPB wallet with
+positive balance) and the Privacy Currency payment password separately, and
+return to the homepage after making the transfer successfully.
 
-![](media/c5ee6b4a98d8547bf330e7fa0ca04a78.png)
+![](media/5b23a9d3b2525c797f2a75100cd5926e.png)![](media/f4c9429a76b86985e247fcbf175a6b42.png)
 
-![](media/4f7516c45bd397b8d98eebe65b13d860.png)
+![](media/0323aa565313a6f04ddd98326abf7f2c.jpg)
 
-3、3.1隐私币资产转账说明：钱包首页点击【扫一扫】（扫描 HPB
-收款码）或者点击【转账】进入到 转账页面。
+3\. 4.1 Instruction for withdrawing the Privacy Currency: on the homepage of
+Wallet, click 【Withdraw】 and enter into the withdrawal interface.
 
-![](media/1448fb141627f4c39ce19cb8332eafc0.png)
+![](media/9f601eca8474989907bca1fc7273c7f1.png)
 
-3、3.2输入收款地址，和选择有余额的主网账户，转账金额，点击【转账】。
+3\. 4.2 Fill in the related information as required, then click 【Withdraw】.
 
-![](media/ea630146c208928e4208414af35b012a.png)
+![](media/057e1b93cc4fb63240b3513e79e9c29d.png)
 
-3、3.3在确认转账界面，仔细核对信息无误之后，点击【确认】，分别输入HPB支付密码和隐私币支付密码，转账成功返回首页。
+3\. 4.3 At the page of confirming withdrawal, carefully check if the withdrawal
+information is correct; if so, click 【×】 to return and correct the withdrawal
+information. Click 【Confirm】 after confirming that everything is right; then
+input the HPB payment password and Privacy Currency payment passwords
+separately. Return to the homepage after withdrawing successfully.
 
-![](media/9a4f5e102f7ca26815064fa3e321fd3a.png)
+![](media/d9d36c29227649eea3c9908a0e7c56a0.png)![](media/d44a5bbb6ea9ff8e1b52e9afffef976b.png)
 
-![](media/8b52ccde3ec21fc0afb88a30c3394416.png)
+![](media/e3436ca2c1746d519b3652eefc822305.jpg)
 
-![](media/7ee7abbe87a6ebc51c96e10416f41c7a.png)
+## **4. Delete the Privacy Wallet**
 
-3、4.1隐私币体现说明：钱包首页点击【提现】进入提现界面。
+4.1 On the homepage of the Wallet, click【Me】-【Manage Wallet】-【Privacy 】tab
+\- tap wallet【Delete Wallet】.
 
-![](media/98120f09c08e792209211091e3dde26f.png)
+![](media/016975dc2d58b019dba84d0d4cac5cd9.png)![](media/20cb0b754267038e60b88a505e69b2f5.jpg)
 
-3、4.2按要求填写相关信息，点击【提现】。
+4.2 Select the Wallet that needs to be deleted and enter into the Wallet details
+page.
 
-![](media/a1284df71dd4ab3b0392d736339c383f.png)
+![](media/a9d2d3d6b61ba15c3752c9b1079a4abf.png)
 
-3、4.3在确认提现界面，仔细核对提现信息是否有误，有错误信息则点击【×】返回重新填写提现信息。确认无误点击【确认】，分别输入HPB支付密码和隐私币支付密码。提现成功返回首页。
+4.3 Click 【Delete the Wallet】, input the wallet payment password, then
+click【Confirm】. The wallet is then deleted successfully.
 
-![](media/f3f9788fa5915b9bccd4564aeee75350.png)
-
-![](media/0c2cac39b0a23ca138b8e9565aae54a4.png)
-
-![](media/352c02f06551bcc754e12e9f7de1b7b0.png)
-
-## 
-
-## 
-
-## 4、删除隐私钱包
-
-4.1钱包首页【我的】页面-【管理钱包】-【隐私币】。
-
-![](media/c39d58caf9401180cc940f2625ca6fcc.png)
-
-![](media/a03850dbcdff0a3c6becb8e7b5674e4d.png)
-
-4.2选择需要删除的钱包，进入到钱包详情页。
-
-![](media/c5961b9a2e3bf75e3a978673c838b81a.png)
-
-4.3点击【删除钱包】，输入钱包支付密码，点击【确认】。成功删除钱包。
-
-![](media/29be80eae68412bf3845cefa8f27bbfe.png)
+![](media/5e5b76369af5cdfdfcfb6394a1111e73.png)
