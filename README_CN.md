@@ -1,4 +1,4 @@
-**HPB机密支付使用手册**
+**HPB机密支付使用手册** | [**(Switch To English)**](./README.md)
 
 **HPB 基金会**
 

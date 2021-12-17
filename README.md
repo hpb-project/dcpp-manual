@@ -1,4 +1,4 @@
-**User Guide to HPB DCPP**
+**User Guide to HPB DCPP** | [**(切换到中文)**](./README_CN.md)
 
 **HPB Foundation**
 
